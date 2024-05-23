@@ -8,3 +8,5 @@ Einfach
 ./militarygit.sh
 ``` 
 ausführen und schon kann es losgehen!
+
+Weitere Updates demnächst..

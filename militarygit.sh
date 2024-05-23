@@ -12,7 +12,7 @@ git config --local alias.marsch push
 
 git config --local alias.buendnis merge
 
-git config --local alias.imitieren clone 
+git config --local alias.beschlagnahmen clone 
 
 git config --local alias.subdivision branch
 
